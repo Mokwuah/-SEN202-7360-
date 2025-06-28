@@ -123,6 +123,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-### Username : Mokwuah,
+### Username : Mokwuah
 ### Email chideberemokwuah@gmail.com
 ### Password: 1234567890
