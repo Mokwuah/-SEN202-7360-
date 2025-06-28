@@ -8,7 +8,7 @@ class Address(models.Model):
 
     def __str__(self):
         return f"{self.street}, {self.city}, {self.state}, {self.postal_code}"
-    
+        
 class StaffBase(models.Model):
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
