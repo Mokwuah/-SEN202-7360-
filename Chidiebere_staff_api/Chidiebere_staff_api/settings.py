@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'employees python manage.py createsuperuser'
+    'employees'
 ]
 
 MIDDLEWARE = [
